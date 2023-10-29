@@ -1,20 +1,21 @@
-## About me:
+<h1 align="center">Greetings! I'm Lívia Cecília</h1>
 
-<p style="margin:0.5rem; width: 100%; font-size: 100%" > 
-  - 🔭 I’m currently working at ICDT - Inatel CubeSat Design Team  <br>
-  - 🌱 I’m currently studying Computer Engineer at Inatel  <br>
-  - 💬 Ask me about anything interesting <br>  
-  - 📫 Contact: livia.cecilia@gec.inatel.br  <br>  
-  - ⚡ Fun fact: My first line of code was in C++ <br>  
-  
-</p>
+<h3 align="center"></h3>
 
-### Contact:
+## About Me:
 
-<p style="margin:0.5rem; width: 100%; font-size: 100%" >
+- 🔭 I'm currently working at ICDT - Inatel CubeSat Design Team
+- 🌱 I'm currently studying Computer Engineering at Inatel
+- 💬 Ask me about anything interesting
+- 📫 Contact: livia.cecilia@gec.inatel.br
 
-  <a href="https://www.linkedin.com/in/lívia-cecília-gomes-silva-5917721b7/">
-  <img style="margin:1rem 0.5rem; height: 47%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
+## Other contacts:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/l%C3%ADvia-cec%C3%ADlia-gomes-silva-5917721b7/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  <a href="https://www.instagram.com/liviaceciliags/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
